@@ -1,6 +1,3 @@
-## CPSC-4240. Software as a Service 
- * Speical thanks to my instructor Dr. Hilerio for a very meaningful and fun course. 
-
 ## Project Overview:
    * A web application that maching tutors and students on demand based on student need and preferences 
 

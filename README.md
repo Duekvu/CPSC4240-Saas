@@ -1,7 +1,7 @@
 ## Project Overview:
    * A web application that maching tutors and students on demand based on student need and preferences 
 
-## Important technologies stack used in this project: ( MEAN stack)
+## Technologies stack used in this project: ( MEAN stack)
 * Web server with **Node.js, npm and express**.
 * Database with **MongoDb, Mongoose**
 * Client Frameworks with **Angular 7**
